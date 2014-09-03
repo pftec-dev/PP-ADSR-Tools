@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Tenants>
+    <TenantId>test</TenantId>
+    <BranchID>123</BranchID>
+    <Brand>test1t</Brand>
+    <DSN>pftec</DSN>
+    <Uid>sa</Uid>
+    <Pwd>ÙÏÝÎÌ</Pwd>
+    <FTP>sd</FTP>
+    <FTPUserName>sds</FTPUserName>
+    <FTPPassword>ÍÜÍÜ</FTPPassword>
+    <LastPooleddate>01/Sep/2014</LastPooleddate>
+    <Selected>true</Selected>
+  </Tenants>
+  <Tenants>
+    <TenantId>tting</TenantId>
+    <BranchID>123456</BranchID>
+    <Brand>test1t</Brand>
+    <DSN>pftec</DSN>
+    <Uid>sa</Uid>
+    <Pwd>ÙÏÝÎÌ</Pwd>
+    <FTP>sd</FTP>
+    <FTPUserName>sds</FTPUserName>
+    <FTPPassword>ÍÜÍÜ</FTPPassword>
+    <LastPooleddate>02/Sep/2014</LastPooleddate>
+    <Selected>true</Selected>
+  </Tenants>
+  <Tenants>
+    <TenantId>t123</TenantId>
+    <BranchID>0000</BranchID>
+    <Brand>test1t</Brand>
+    <DSN>pftec</DSN>
+    <Uid>sa</Uid>
+    <Pwd>ÙÏÝÎÌ</Pwd>
+    <FTP>sd</FTP>
+    <FTPUserName>sds</FTPUserName>
+    <FTPPassword>ÍÜÍÜ</FTPPassword>
+    <LastPooleddate>27/Aug/2014</LastPooleddate>
+    <Selected>true</Selected>
+  </Tenants>
+</NewDataSet>
