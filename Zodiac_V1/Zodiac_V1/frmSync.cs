@@ -39,6 +39,13 @@ namespace MASSync
             notifyIcon1.ShowBalloonTip(100, "XtreMe Integra Zodiac_V1.0", "Auto Sync Tool Started ....", ToolTipIcon.Info);
 
 
+
+
+
+
+            string s = "hello";
+
+
             if (sStartTime == "")
             {
                 OdbcDataReader sdr1;

@@ -48,3 +48,6 @@ G:\Phoenix\Zodiac_V1\Zodiac_V1\obj\Debug\Zodiac_V1.Properties.Resources.resource
 G:\Phoenix\Zodiac_V1\Zodiac_V1\obj\Debug\Zodiac_V1.csproj.GenerateResource.Cache
 G:\Phoenix\Zodiac_V1\Zodiac_V1\obj\Debug\Zodiac_V1.0.exe
 G:\Phoenix\Zodiac_V1\Zodiac_V1\obj\Debug\Zodiac_V1.0.pdb
+C:\Users\9123\Documents\GitHub\adsr tools\PP-ADSR-Tools\Zodiac_V1\Zodiac_V1\bin\Debug\Zodiac_V1.0.exe.config
+C:\Users\9123\Documents\GitHub\adsr tools\PP-ADSR-Tools\Zodiac_V1\Zodiac_V1\obj\Debug\Zodiac_V1.0.exe
+C:\Users\9123\Documents\GitHub\adsr tools\PP-ADSR-Tools\Zodiac_V1\Zodiac_V1\obj\Debug\Zodiac_V1.0.pdb
